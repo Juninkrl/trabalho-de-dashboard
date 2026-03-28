@@ -33,8 +33,8 @@
                 <tbody>
                     <tr>
                         <td>01</td>
-                        <td>lucas matos</td>
-                        <td>lucasmatos2727@example.com</td>
+                        <td>wagner junior</td>
+                        <td>wagnerjuniorr@example.com</td>
                         <td>administrador</td>
                         <td><span class= "badge ativo">ativo</span></td>
                         <td> <a href= "#" class= "btn-acao btn-editar">
@@ -45,8 +45,8 @@
                     </tr>
                     <tr>
                         <td>02</td>
-                        <td>fernanda puget</td>
-                        <td>fernandapuget2525@example.com</td>
+                        <td>carlinhos ploc ploc</td>
+                        <td>carlinhospcpc@example.com</td>
                         <td>editor</td>
                         <td><span class= "badge ativo">ativo</span></td>
                         <td> <a href= "#" class= "btn-acao btn-editar">
@@ -60,8 +60,8 @@
                 <tbody>
                     <tr>
                         <td>03</td>
-                        <td>duda silva</td>
-                        <td>dudasilva2504@example.com</td>
+                        <td>afonsinha nunes</td>
+                        <td>phonsynuness@example.com</td>
                         <td>usúario</td>
                         <td><span class= "badge ativo">inativo</span></td>
                         <td> <a href= "#" class= "btn-acao btn-editar">

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>bloodlovrz</title>
+    <title>Sønix</title>
     <link rel ="stylesheet" href="dash.css">
 </head>
 <body>
@@ -22,7 +22,7 @@
         <form action="usuarios.html" method="POST">
             <div class="form-group">
                 <label for="nome">nome completo</label>
-                <input type="text" id="nome" name="nome" placeholder="ex: lucas matos" required>
+                <input type="text" id="nome" name="nome" placeholder="ex: wagner junior" required>
             </div>
 
             <div class="form-group">
